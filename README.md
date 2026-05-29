@@ -114,8 +114,6 @@ Note: Does anyone know if they skipped any of the Scratch 2.0 numbers?
 * v280
 * v289-290
 ### Found but not added
-#### Scratch
-* ScratchXO builds (excluding ScratchXO-1)
 #### LogoBlocks:
 * Lego Mindstorms RIS (1998)
 * August 25, 2000 (found, but currently no access)
